@@ -534,6 +534,12 @@ mark,
   height: auto;
 }
 
+.img-fluid3 {
+  padding-top: 20px;
+  max-width: 100%;
+  height: auto;
+}
+
 .img-thumbnail {
   padding: 0.25rem;
   background-color: #fff;
@@ -683,7 +689,7 @@ pre code {
 .row {
   display: flex;
   flex-wrap: wrap;
-  /*margin-right: -1.5rem;*/
+  margin-right: -1.5rem;
   margin-left: -1.5rem;
 }
 
