@@ -11159,7 +11159,8 @@ a.text-dark:focus {
 }
 
 .masthead .masthead-avatar {
-  width: 25rem;
+  width: auto;
+  height: 30rem;
   border-radius: 50%;
 }
 
